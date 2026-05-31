@@ -5,7 +5,7 @@
 
 ![alt text](image.png)
 <br>
-
+<br>
 ![alt text](image-1.png)
 > An intelligent Arabic medical chatbot that guides patients to the right medical specialist through a smart conversational experience.
 
@@ -147,11 +147,6 @@ medical-chatbot/
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 <div align="center">
 
